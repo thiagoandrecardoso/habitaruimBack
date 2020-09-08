@@ -13,9 +13,9 @@
 
         <!-- entidade mapeada-->
 
-        <class>main.java.entity.Rent</class>
-        <class>main.java.entity.Property</class>
-        <class>main.java.entity.Lessor</class>
+        <class>main.java.com.habitarium.entity.Rent</class>
+        <class>main.java.com.habitarium.entity.Property</class>
+        <class>main.java.com.habitarium.entity.Lessor</class>
 
 
         <properties>
