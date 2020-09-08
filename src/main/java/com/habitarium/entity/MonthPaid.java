@@ -1,10 +1,9 @@
-package main.java.entity;
+package com.habitarium.entity;
 
 import javax.persistence.*;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
-import java.util.Objects;
 
 @Entity
 @Table(name = "monthPaid")

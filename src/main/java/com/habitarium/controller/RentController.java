@@ -1,7 +1,7 @@
-package main.java.controller;
+package com.habitarium.controller;
 
-import main.java.entity.MonthPaid;
-import main.java.entity.Rent;
+import com.habitarium.entity.MonthPaid;
+import com.habitarium.entity.Rent;
 
 import java.time.LocalDate;
 import java.time.YearMonth;

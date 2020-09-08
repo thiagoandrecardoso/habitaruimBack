@@ -1,4 +1,4 @@
-package main.java.dao;
+package com.habitarium.dao;
 
 import java.util.List;
 

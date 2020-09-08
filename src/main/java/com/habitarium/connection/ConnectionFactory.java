@@ -1,4 +1,4 @@
-package main.java.connection;
+package com.habitarium.connection;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

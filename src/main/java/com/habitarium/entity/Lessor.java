@@ -1,6 +1,6 @@
-package main.java.entity;
+package com.habitarium.entity;
 
-import main.java.enuns.Gender;
+import com.habitarium.enuns.Gender;
 
 import javax.persistence.*;
 import java.util.Date;

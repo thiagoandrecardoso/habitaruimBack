@@ -1,7 +1,7 @@
-package test.java.controller;
+package controller;
 
-import main.java.dao.UserDAO;
-import main.java.entity.User;
+import com.habitarium.dao.UserDAO;
+import com.habitarium.entity.User;
 import org.junit.Ignore;
 
 import static org.junit.Assert.fail;

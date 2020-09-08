@@ -1,7 +1,7 @@
-package main.java.dao;
+package com.habitarium.dao;
 
-import main.java.connection.ConnectionFactory;
-import main.java.entity.User;
+import com.habitarium.connection.ConnectionFactory;
+import com.habitarium.entity.User;
 
 import javax.persistence.EntityManager;
 import java.util.List;

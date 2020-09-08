@@ -1,4 +1,4 @@
-package main.java.enuns;
+package com.habitarium.enuns;
 
 public enum Gender {
     MALE("Masculino"),

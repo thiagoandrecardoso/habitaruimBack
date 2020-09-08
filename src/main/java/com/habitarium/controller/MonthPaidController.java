@@ -1,7 +1,7 @@
-package main.java.controller;
+package com.habitarium.controller;
 
-import main.java.dao.MonthPaidDAO;
-import main.java.entity.MonthPaid;
+import com.habitarium.dao.MonthPaidDAO;
+import com.habitarium.entity.MonthPaid;
 
 import java.util.ArrayList;
 import java.util.Date;

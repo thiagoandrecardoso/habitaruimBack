@@ -1,4 +1,4 @@
-package main.java.entity;
+package com.habitarium.entity;
 
 import javax.persistence.*;
 

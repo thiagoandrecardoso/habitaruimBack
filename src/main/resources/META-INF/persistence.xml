@@ -25,9 +25,9 @@
             <property name="javax.persistence.jdbc.url"
                       value="jdbc:mysql://localhost:3306/habitarium"/>
             <property name="javax.persistence.jdbc.user"
-                      value="cliente"/>
+                      value="teste"/>
             <property name="javax.persistence.jdbc.password"
-                      value="Abacaxi98"/>
+                      value="password"/>
 
             <!--  propriedades do hibernate -->
             <property name="hibernate.dialect.storage_engine" value="innodb"/>

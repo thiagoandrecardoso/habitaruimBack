@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Habitarium-Gitflow-Maven" />
+        <module name="HabitariumBack" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Habitarium-Gitflow-Maven" target="1.8" />
+      <module name="HabitariumBack" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
